@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdmiraz-dev.github.io/sitemap.xml

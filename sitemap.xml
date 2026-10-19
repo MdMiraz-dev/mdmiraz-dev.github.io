@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mdmiraz-dev.github.io/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mdmiraz-dev.github.io/merajul-islam.jpg</image:loc>
+      <image:title>MERAJUL ISLAM (MIRAZ) - Official Portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdmiraz-dev.github.io/faridabad-madrasah.jpg</image:loc>
+      <image:title>Jamia Arabia Imdadul Uloom Faridabad Campus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdmiraz-dev.github.io/jatrabari-madrasah.jpg</image:loc>
+      <image:title>Jamia Islamia Darul Uloom Madania Jatrabari Campus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdmiraz-dev.github.io/assunnah-campus.jpg</image:loc>
+      <image:title>As-Sunnah Skill Development Institute Campus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mdmiraz-dev.github.io/merajul-islam-award.jpg</image:loc>
+      <image:title>Merajul Islam Young Scholars Conference Award</image:title>
+    </image:image>
+  </url>
+</urlset>
